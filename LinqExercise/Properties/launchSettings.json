@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LinqExercise": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
